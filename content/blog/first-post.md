@@ -19,11 +19,11 @@ background: red;
 ####2) Center items in CSS Grid
 
 rather than
-```
+```css
 align-items: center;
 justify-content: center;
 ```
 use
-```
+```css
 place-items: center;
 ```
