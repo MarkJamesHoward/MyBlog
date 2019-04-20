@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Web Development`,
+    title: `A Shot Of Code`,
     author: `Mark Howard`,
-    description: `Goings on in the world of web`,
+    description: `A Personal blog`,
     siteUrl: `https://ashotofcode.netlify.com/`,
     social: {
       twitter: `@bigusbirdicus`,
