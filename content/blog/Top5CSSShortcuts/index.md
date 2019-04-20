@@ -21,6 +21,7 @@ place-items: center;
 
 ####2. Background Color
 
+<<<<<<< HEAD:content/blog/Top5CSSShortcuts/index.md
 ```css
 background-color: red; => background: red;
 ```
@@ -31,3 +32,16 @@ background-color: red; => background: red;
 ####4.
 
 ####5. 
+=======
+####2) Center items in CSS Grid
+
+rather than
+```css
+align-items: center;
+justify-content: center;
+```
+use
+```css
+place-items: center;
+```
+>>>>>>> fix:content/blog/first-post.md
