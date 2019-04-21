@@ -40,6 +40,11 @@ function Bio() {
             <p>
               Written by <strong>{author}</strong>
               {` `}
+              <br/>
+              <a href={`https://youtube.com/${social.youtube}`}>
+                Watch on YouTube
+              </a>
+              <br/>
               <a href={`https://twitter.com/${social.twitter}`}>
                 Follow on twitter
               </a>
