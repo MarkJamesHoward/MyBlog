@@ -1,6 +1,7 @@
 ---
 title: My Top 5 CSS Shortcuts
 date: "2019-04-20"
+description: Top 5 CSS Shortcuts
 ---
 
 Here are my top 5 CSS Shotcuts - hopefully there is a new and useful one in there for you!
