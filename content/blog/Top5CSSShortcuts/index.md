@@ -6,6 +6,8 @@ description: Top 5 CSS Shortcuts
 
 Here are my top 5 CSS Shotcuts - hopefully there is a new and useful one in there for you!
 
+The first one in this list I only learnt about recently and is a doozy for sure!
+
 
 ####1. Center items (vertical and horizontal) in CSS Grid
 
