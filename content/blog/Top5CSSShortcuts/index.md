@@ -9,7 +9,7 @@ Here are my top 5 CSS Shotcuts - hopefully there is a new and useful one in ther
 
 ####1. Center items (vertical and horizontal) in CSS Grid
 
-rather than
+Rather than
 
 ```css
 align-items: center;
@@ -35,7 +35,7 @@ border: 1px solid #000;
 
 ####3. Background Color
 
-rather than
+Rather than
 ```css
 background-color: red;
 ```
