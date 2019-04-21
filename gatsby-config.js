@@ -6,6 +6,7 @@ module.exports = {
     siteUrl: `https://ashotofcode.netlify.com/`,
     social: {
       twitter: `@bigusbirdicus`,
+      youtube: `ashotofcode`,
     },
   },
   plugins: [

@@ -20,29 +20,43 @@ use
 place-items: center;
 ```
 
-####2. Background Color
+####2. Border
 
-<<<<<<< HEAD:content/blog/Top5CSSShortcuts/index.md
+Rather than
 ```css
-background-color: red; => background: red;
+border-width: 1px;
+border-style: solid;
+border-color: #000;
+```
+Use:
+```css
+border: 1px solid #000;
 ```
 
-####3. 
-
-
-####4.
-
-####5. 
-=======
-####2) Center items in CSS Grid
+####3. Background Color
 
 rather than
 ```css
-align-items: center;
-justify-content: center;
+background-color: red;
 ```
-use
+Use:
 ```css
-place-items: center;
+background: red;
 ```
->>>>>>> fix:content/blog/first-post.md
+####4. Margins
+
+Rather than
+```css
+margin-top: 10px;
+margin-right: 5px;
+margin-bottom: 10px;
+margin-left: 5px;
+```
+Use:
+```css
+margin: 10px 5px 10px 5px;
+```
+
+
+####5.Next One!
+
