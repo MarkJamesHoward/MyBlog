@@ -19,3 +19,5 @@ Use:
 ```
 git commit -am "update"
 ```
+
+I should note here that this only seems to work for files in the current folder. If you have files in sub folders you'll need to move into them or use the longhand version :-(
